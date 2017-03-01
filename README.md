@@ -1,0 +1,2 @@
+# Triangle-peg-board-game
+А simple program to find the solution to the triangle peg game (see http://www.joenord.com/puzzles/peggame/ for the game rules and one solution). It’s less important what solution it finds, as long as the program is written simply, generically, and works recursively to find any solution that leaves one pin in the game. You can then just display the list of moves in the solution.
